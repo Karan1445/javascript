@@ -14,3 +14,5 @@ const x=10;
 
 // x=12; typeerror addigment to constat variable
 //its hoisted but return the refrance error
+
+// also a block scope or function scope
