@@ -55,7 +55,7 @@ const date4=new Date();
 console.log(date4.toISOString())
 
 const date5=new Date();
-// --outputs
+// --These are the output
 // 2026-03-09T16:18:23.632Z
 // 2025-08-17T18:30:00.000Z
 // 2004-08-18T00:00:00.000Z
