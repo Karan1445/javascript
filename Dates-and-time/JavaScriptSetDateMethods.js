@@ -1,4 +1,4 @@
-// JavaScript Set Date Methods
+// JavaScript Set Date Methods 
 const date=new Date(2004,7,18);
 console.log(date.getMonth())
 const e1=date.setFullYear(2005)
