@@ -7,7 +7,7 @@ console.log(example1)
 
 const example2=new Date("2004-08-18")
 console.log(example2)
-
+ 
 const example3=new Date(2004,7,18);
 console.log(example3)
 
