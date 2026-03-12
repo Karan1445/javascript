@@ -10,4 +10,4 @@ console.log(date.getTimezoneOffset())//-330
 const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
 console.log(months[date.getMonth()])
 
-console.log(Date.now()) 
+console.log(Date.now())//the output
