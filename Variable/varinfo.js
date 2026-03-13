@@ -6,4 +6,4 @@ eaxmple=11
 console.log(eaxmple)
 
 console.log(x) //undefine
-var x=12;
+var x=12;//declaring new variable
