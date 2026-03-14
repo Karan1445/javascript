@@ -2,4 +2,4 @@
 // console.log(x); // Output: undefined
 // let x;
 console.log(y)
-const y;
+const y; 
