@@ -26,7 +26,7 @@ if (name == "Karan" && number == 25) {
 
 switch (name) {
     case "Karan":
-        console.log("Hello Karan")
+        console.log("Hello Karan") 
         break;
     default:
         console.log("Hello Stranger")
