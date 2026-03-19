@@ -14,7 +14,7 @@ const e6=date.setMinutes(5)
 // date comparision
   
 const c=new Date()
-const c1=new Date()
+const c1=new Date() 
 
 if(c>c1){
     console.log("yes")
