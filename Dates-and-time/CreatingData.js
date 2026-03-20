@@ -13,7 +13,7 @@ console.log(example3)
 
 //  year, month, day, hour, minute, second
 const example4=new Date(2004,7,18,12,12,12)
-console.log(example4)
+console.log(example4) 
 
 const example5=new Date(2004,8)
 console.log(example5)
