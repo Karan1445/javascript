@@ -12,7 +12,7 @@ if (20 >= number) {
     console.log("Number is less than or equal to 20")
 } else {
     console.log("Number is greater than 20")
-}
+ 
 
 console.log(20 > 100 ? "Number is greater than 100" : "Number is not greater than 100")
 
