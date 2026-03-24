@@ -1,4 +1,4 @@
-// const is hoisted and we can not change value of const but inside array we can change it
+   // const is hoisted and we can not change value of const but inside array we can change it
 
 const arr=[1,2,3,4] 
 
