@@ -8,7 +8,7 @@ arr.push(1)
 
 console.log(arr)
 
-const x=10;
+const x=10 
 
 // now the x vlaue is 10 fixed we cannot do x=11 after its declartion
 
