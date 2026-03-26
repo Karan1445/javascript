@@ -3,7 +3,7 @@ console.log(d)
 // Output is 2026-03-09T16:04:42.418Z
 
 const example1=new Date("Augest 18,2025")
-console.log(example1)
+console.log(example1) 
 
 const example2=new Date("2004-08-18")
 console.log(example2)
