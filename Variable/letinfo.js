@@ -1,4 +1,4 @@
-let x=10;
+  let x=10;
 let x1=1;
 //its hoisted but return refrence error 
 x=11
